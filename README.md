@@ -2,4 +2,4 @@
 
 [Governance](./GOVERNANCE.md)
 
-This will get extendes at some point.
+This will get extended at some point.
